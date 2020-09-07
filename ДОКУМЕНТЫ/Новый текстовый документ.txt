@@ -1,0 +1,2 @@
+veg - carridge|green. tomato|red
+fruit - apple|green. banana|yellow
